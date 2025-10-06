@@ -14,7 +14,7 @@ Soy un ingeniero orientado a resultados con experiencia en desarrollo web, sopor
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-...
+
 
 ---
 
@@ -26,7 +26,7 @@ Sistema de
 ---
 
 ### 📈 Estadísticas
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-luis-estrada&show_icons=true&theme=radical)
 
 ---
 
